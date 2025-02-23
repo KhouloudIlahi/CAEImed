@@ -67,8 +67,8 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="#hero" class="active">Home<br></a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="#hero" class="active">Acceuil<br></a></li>
+            <li><a href="#about">À Propos</a></li>
             <li><a href="#services">Services</a></li>
             <li><a href="#departments">Departments</a></li>
             <li><a href="#doctors">Doctors</a></li>
@@ -119,13 +119,12 @@
         <div class="content row gy-4">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="why-box" data-aos="zoom-out" data-aos-delay="200">
-              <h3>Pourquoi choisir Medilab ?</h3>
+              <h3>Pourquoi choisir La Tunisie ?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                La Tunisie, référence en accompagnement médical, allie expertise, infrastructures modernes et accueil chaleureux. Choisir la Tunisie, c’est opter pour des soins de qualité dans une destination reconnue pour son excellence en santé.
               </p>
               <div class="text-center">
-                <a href="#about" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
+                <a href="#about" class="more-btn"><span>En savoir plus</span> <i class="bi bi-chevron-right"></i></a>
               </div>
             </div>
           </div><!-- End Why Box -->
@@ -137,8 +136,8 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box" data-aos="zoom-out" data-aos-delay="300">
                     <i class="bi bi-clipboard-data"></i>
-                    <h4>Corporis voluptates officia eiusmod</h4>
-                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                    <h4>Prestations certifiées</h4>
+                    <p>Chez CAEI Medical Services, nous nous engageons à offrir des prestations certifiées, conformes aux normes les plus exigeantes en matière de qualité et de sécurité, afin de garantir le bien-être optimal de nos patients.</p>
                   </div>
                 </div><!-- End Icon Box -->
 
@@ -180,9 +179,11 @@
           </div>
 
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-            <h3>About Us</h3>
+            <h3>À propos de nous</h3>
             <p>
-              Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam ut eius incidunt reiciendis veritatis asperiores placeat.
+              Dans un monde où la médecine se spécialise davantage, accéder rapidement à des soins adaptés peut être un défi. De nombreux patients choisissent de se soigner à l’étranger en raison des coûts élevés, des délais d’attente ou du manque de spécialités médicales.
+
+CAEI MEDICAL SERVICES est une agence internationale indépendante qui accompagne les patients étrangers souhaitant se faire soigner ou opérer en Tunisie. Grâce à notre expertise, nous vous orientons vers les meilleurs spécialistes et structures médicales, en assurant un suivi personnalisé et des soins de qualité adaptés à vos besoins et votre budget. Que ce soit pour un séjour médical ou une évacuation sanitaire, nous sommes votre partenaire santé de confiance en Tunisie.
             </p>
             <ul>
               <li>
@@ -1016,7 +1017,7 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><a href="#">Home</a></li>
+            <li><a href="#">Dashboard</a></li>
             <li><a href="#">About us</a></li>
             <li><a href="#">Services</a></li>
             <li><a href="#">Terms of service</a></li>
